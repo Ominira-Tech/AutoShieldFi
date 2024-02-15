@@ -38,6 +38,7 @@ Se você está interessado em contribuir com o projeto AutoShieldFI, siga estas 
 
 - Wesley Cardoso - Desenvolvedor de Smart / Desenvolvedor Backend
 - Jaqueline Queroz - Desenvolvedor Frontend / Designer UX/UI
+- Amanda Almeida - Negócio / Marketing
 
 ## Contato
 
@@ -85,6 +86,7 @@ If you are interested in contributing to the AutoShieldFI project, please follow
 
 - Wesley Cardoso - Smart Developer / Backend Developer
 - Jaqueline Queroz - Frontend Developer/UX / UI Designer
+- Amanda Almeida - Business / Marketing
 
 ## Contact
 
